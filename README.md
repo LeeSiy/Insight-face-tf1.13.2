@@ -49,3 +49,4 @@ Inference for insight face with tensorflow 1.13.2
   - 2. mmconvert -sf mxnet -in  path/to/model-symbol.json -iw path/to/model-0000.params -df tensorflow -om path/to/output --inputShape 112,112,3 --dump_tag SERVING
 
 ## Inference
+![result](https://user-images.githubusercontent.com/62841284/122002077-3e87df80-cdec-11eb-880c-2a33c767a3e3.png)
