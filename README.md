@@ -31,21 +31,21 @@ Inference for insight face with tensorflow 1.13.2
 ## Training
   - 1. preparing data
       -- 1. preparing image folders
-      ex) data/
-	          -/label1
-		          -image1
-		          -image2
-	          -/label2
-		          -image1
-		          -image2
-	          -/label3
-		          -image1
-		          -image2 
-	          …
+      -- ex) data/
+      --          -/label1
+      --	          -image1
+      --	          -image2
+--	          -/label2
+--		          -image1
+--		          -image2
+--	          -/label3
+--		          -image1
+--		          -image2 
+--	          …
       -- 2. renaming file
-      rename files with 'rename.py'
-      file name ex)
-      label1_0001.jpg
-      label2_0002.jpg
-      …
+  --    rename files with 'rename.py'
+  --    file name ex)
+  --    label1_0001.jpg
+  --    label2_0002.jpg
+  --    …
       
