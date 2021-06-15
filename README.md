@@ -17,28 +17,28 @@ Inference for insight face with tensorflow 1.13.2
   
 ## Version Info
   - 1. Training insight face
-    > 1. Python 3.6.9
-    -- 2. mxnet 1.5.0
-    -- 3. Pytorch 1.6.0
-    -- 4. Torch Vision 0.7.0
-    -- 5. Cuda 10.1
+    > Python 3.6.9
+    > mxnet 1.5.0
+    > Pytorch 1.6.0
+    > Torch Vision 0.7.0
+    > Cuda 10.1
 
   - 2. Training retina face and Convert model
-    -- 1. Python 3.6.9
-    -- 2. Tensorflow 1.13.2
-    -- 3. Cuda 10.0
+    > Python 3.6.9
+    > Tensorflow 1.13.2
+    > Cuda 10.0
     
 ## Training
   - 1. preparing data
-      -- 1. preparing image folders
-      -- 2. renaming file with 'rename.py'
-      -- 3. making property
-      -- 4. making list file 
-        --- mxnet/tools/im2rec.py
-      -- 5. making record & index files
-        --- mxnet/tools/im2rec.py
-      -- 6. making pairs.txt with 'make_pairs.py'
-      -- 7. making bin files with 'dataset2bin.py'
+      > (1) preparing image folders
+      > (2) renaming file with 'rename.py'
+      > (3) making property
+      > (4) making list file 
+        > mxnet/tools/im2rec.py
+      > (5) making record & index files
+        > mxnet/tools/im2rec.py
+      > (6) making pairs.txt with 'make_pairs.py'
+      > (7) making bin files with 'dataset2bin.py'
       
 
       
