@@ -17,7 +17,7 @@ Inference for insight face with tensorflow 1.13.2
   
 ## Version Info
   - 1. Training insight face
-    -- 1. Python 3.6.9
+    > 1. Python 3.6.9
     -- 2. mxnet 1.5.0
     -- 3. Pytorch 1.6.0
     -- 4. Torch Vision 0.7.0
