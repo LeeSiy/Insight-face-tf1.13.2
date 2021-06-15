@@ -44,6 +44,8 @@ Inference for insight face with tensorflow 1.13.2
   - 2. Training 
 ![train](https://user-images.githubusercontent.com/62841284/121996242-311a2780-cde3-11eb-9ca0-16e0bf870fbd.jpg)
 
+## Convert Model
+  - 1. pip install mmdnn
+  - 2. mmconvert -sf mxnet -in  path/to/model-symbol.json -iw path/to/model-0000.params -df tensorflow -om path/to/output --inputShape 112,112,3 --dump_tag SERVING
 
-
-      
+## Inference
