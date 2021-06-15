@@ -39,6 +39,11 @@ Inference for insight face with tensorflow 1.13.2
         * mxnet/tools/im2rec.py
       * (6) making pairs.txt with 'make_pairs.py'
       * (7) making bin files with 'dataset2bin.py'
-      
+![input](https://user-images.githubusercontent.com/62841284/121996231-2a8bb000-cde3-11eb-92f6-c7a04e01c339.jpg)
+
+  - 2. Training 
+![train](https://user-images.githubusercontent.com/62841284/121996242-311a2780-cde3-11eb-9ca0-16e0bf870fbd.jpg)
+
+
 
       
